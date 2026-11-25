@@ -1,0 +1,82 @@
+{
+  "also": [
+    "Ebola teams still trapped in a Congo hospital as fighting blocks evacuation",
+    "Israel's Eisenkot signs first coalition pact in bid to form a government",
+    "Ousted PM Hasina says she will return to Bangladesh on December 16"
+  ],
+  "day": "Tuesday 24 November 2026",
+  "lead": {
+    "caption": "Second hit in a week on the city's tallest tower leaves 11 injured.",
+    "headline": "Houthi Strike Hits Riyadh Tower Again",
+    "icon": "tower",
+    "iconKeywords": [
+      "skyscraper",
+      "explosion burst",
+      "smoke",
+      "city skyline"
+    ],
+    "kicker": "LEAD STORY — RIYADH, SAUDI ARABIA"
+  },
+  "masthead": {
+    "dateline": "TUESDAY · 24 NOVEMBER 2026",
+    "tagline": "WORLD NEWS IN ONE PAGE",
+    "title": "THE DAILY ORBIT"
+  },
+  "stories": [
+    {
+      "caption": "Overnight attack damages apartments; 40 wounded, including four children.",
+      "headline": "Russian Strike Kills Two in Zaporizhzhia",
+      "icon": "apartment",
+      "iconKeywords": [
+        "apartment building",
+        "rubble",
+        "cracked windows"
+      ],
+      "kicker": "UKRAINE WAR"
+    },
+    {
+      "caption": "Seven killed in Gaza, medics say, despite a ceasefire in place since last year.",
+      "headline": "Israeli Strikes Kill Hamas Security Chief",
+      "icon": "burst",
+      "iconKeywords": [
+        "airstrike",
+        "explosion",
+        "city skyline"
+      ],
+      "kicker": "GAZA"
+    },
+    {
+      "caption": "Monitor counts 6,929 killed or injured in 2025; Myanmar worst, then Syria.",
+      "headline": "Landmine Toll Hits Five-Year High",
+      "icon": "mine",
+      "iconKeywords": [
+        "warning triangle",
+        "landmine",
+        "danger sign"
+      ],
+      "kicker": "WORLD REPORT"
+    },
+    {
+      "caption": "Highest since January 2025 as job optimism grows after the midterm elections.",
+      "headline": "US Consumer Confidence Jumps to 103.3",
+      "icon": "chart",
+      "iconKeywords": [
+        "rising chart",
+        "arrow up",
+        "bar graph"
+      ],
+      "kicker": "US ECONOMY"
+    },
+    {
+      "caption": "Washington dairy workers infected with H5N1; no sign of person-to-person spread, WHO says.",
+      "headline": "Three US Bird Flu Cases, One Death",
+      "icon": "bird",
+      "iconKeywords": [
+        "bird",
+        "medical cross",
+        "virus alert"
+      ],
+      "kicker": "HEALTH"
+    }
+  ]
+}
